@@ -1,4 +1,6 @@
 # sql-injection-backup
 
 
-http://www.cnblogs.com/hongfei/p/3895980.html
+sql note: http://www.cnblogs.com/hongfei/p/3895980.html
+
+sqlol writeup: http://www.cnblogs.com/xiaozi/p/5536629.html
